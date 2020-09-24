@@ -1,3 +1,3 @@
-# react_api_express
+# react_hello_world
 
 Hello Word com react, utilizando o create-react-app
